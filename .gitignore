@@ -1,0 +1,23 @@
+# Publish only the explicit showcase files staged for review.
+/.review/
+.DS_Store
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.luau
+*.lua
+.env
+.env.*
+*.log
+*.mov
+*.mp4
+*.wav
+*.zip
+node_modules/
+source/
+baseline/
+notes/
+*profile*
+*receipt*
+*snapshot*
